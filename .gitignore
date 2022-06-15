@@ -1,0 +1,11 @@
+# dependencies
+**/node_modules/
+
+# build info
+**/build/
+
+# misc
+**/.env*
+*/.DS_Store
+
+*/npm-debug.log*
